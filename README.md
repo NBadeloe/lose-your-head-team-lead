@@ -3,6 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
+Om eer inzicht te krijgen in mijn rol als teamlead, [check mijn wiki:)](https://github.com/NBadeloe/lose-your-head-team-lead/wiki)
 
 
 ## Licentie
